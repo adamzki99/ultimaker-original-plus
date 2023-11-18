@@ -15,7 +15,7 @@ Running a BL-Touch on the UltiMaker V2 mainboard is not that common, at least no
 
 Using the following image as a reference to connect the sensor to the **EXP3** port.
 
-[From the "french post" on UltiMaker community forum](/images/bl-touch-with-ultimaker-v2.jpg)
+![From the "french post" on UltiMaker community forum](/images/bl-touch-with-ultimaker-v2.jpg)
 
 The following lines are then added to the `printer.cfg`` in Klipper:
 
